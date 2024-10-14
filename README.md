@@ -1,6 +1,10 @@
 # copy paste in termux
 
 ```
+apt upgrade
+
+pkg install python
+
 git clone https://github.com/SUBUR78990/Program-Scurity.git
 
 cd Program-Scurity

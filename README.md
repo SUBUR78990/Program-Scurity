@@ -13,10 +13,7 @@ python program-Sc.py
 
 ```
 
-
-
-![Screenshot_20240201-172212](https://github.com/user-attachments/assets/ca5a4b92-52d0-4bf9-b831-6397d3765c19)
-
+![Image](https://github.com/user-attachments/assets/389d9a45-ade8-49e3-9fb2-5598f75691a9)
 
 
 # Terimakasih semoga Bermanfaat 
